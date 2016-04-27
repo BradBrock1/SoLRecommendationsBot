@@ -4,6 +4,24 @@ using System.Linq;
 using RedditSharp.Things;
 using RedditSharp;
 
+/*
+ * 
+ * 	RedditSharp is developed by SirCmpwn. 
+ * 
+ *  SoLRecommendationsBot is developed by BradBrock1 (/u/genericthrowawayyes)
+ *  This program is open-source. According to the license set by SirCmpwn and myself, this program may be
+ *  modified, redistributed and used commercially, as long as credit is given to both SirCmpwn and myself.
+ *  
+ *  Note to editors:
+ * 			The source code is pretty easy to understand. I've commented on a few things here and there in case you aren't 
+ * 			familiar with RedditSharp's API. 
+ * 		
+ * 			Feel free to edit this to your hearts content and use it as your own bot.
+ * 			If you want to improve this product but not use it as your own bot, and improve upon the original, you can do so
+ * 			by using GitHub, or PM'ing me on reddit. http://www.reddit.com/user/genericthrowawayyes
+ * 
+ */ 
+
 namespace SoLRecommendationBot
 {
 	class MainClass
