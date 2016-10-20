@@ -47,7 +47,7 @@ namespace SoLRecommendationBot
 				}
 				catch(Exception ex) 
 				{
-					Console.Write (ex.Message);
+					Console.Write (ex.Message+"\nPress enter to exit...");
 					Console.Read ();
 					Environment.Exit (0);
 				}
