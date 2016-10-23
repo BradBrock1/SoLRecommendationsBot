@@ -1,7 +1,0 @@
-{
-  "language": "csharp",
-  "solution": "SoLRecommendationBot.sln",
-  "group": "stable",
-  "dist": "precise",
-  "os": "linux"
-}
